@@ -1,4 +1,5 @@
 Projeto Loja Virtual (Livraria)
+
 Projeto de loja virtual de uma livraria que consiste em telas de cadastro de cliente, fornecedor e livros.
 onde pode-se cadastrar o cliente com a foto, nome endereço, telefone, sexo cpf, cidade e estado e numero de telefone e sexo, profissão.
 cadastro do fornecedor com os dados de foto razão social ,nome fantasia,endereço,telefone cnpj,inscrição estadual,cidade e estado.
