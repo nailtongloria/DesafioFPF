@@ -1,9 +1,10 @@
 Projeto Loja Virtual (Livraria)
 Projeto de loja virtual de uma livraria que consiste em telas de cadastro de cliente, fornecedor e livros.
 onde pode-se cadastrar o cliente com a foto, nome endereço, telefone, sexo cpf, cidade e estado e numero de telefone e sexo, profissão.
-cadastro do fornecedor com os dados de foto razão social ,nome fantasia,endereço,telefone cnpj,inscriçao estadual,cidade e estado.
+cadastro do fornecedor com os dados de foto razão social ,nome fantasia,endereço,telefone cnpj,inscrição estadual,cidade e estado.
 cadastro de livro, onde a foto do livro,titulo,autores,descriçao resumida, isnb, ano, páginas, fornecedor, preço.
-A tela inicial de login onde o usuario é admin e a senha é 123, para se ter acesso as páginas.
+PRIMEIRA TELA.
+A tela inicial de login onde o usuário é admin e a senha é 123, para se ter acesso as páginas.
 A um menu vetical a esquerda da tela com as opções de clientes , fornecedores e livros.
 Só clicar no ícone "NOVO+" para abrir a tela de cadastro.
 para editar e excluir é so voltar na tela de listagem e escolher as opções na tabela.
