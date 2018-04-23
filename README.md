@@ -9,7 +9,7 @@ PRIMEIRA TELA.
 
 A tela inicial de login onde o usuário é admin e a senha é 123, para se ter acesso as páginas.
 
-A um menu vetical a esquerda da tela com as opções de clientes , fornecedores e livros.
+A um menu vertical a esquerda da tela com as opções de clientes , fornecedores e livros.
 
 Só clicar no ícone "NOVO+" para abrir a tela de cadastro.
 
